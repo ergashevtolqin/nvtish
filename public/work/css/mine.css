@@ -1,0 +1,488 @@
+.stats{
+	font-family: "montserrat-bold", sans-serif;
+    font-size: 8.4rem;
+    line-height: 1;
+    color: #FFFFFF;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.prods{
+    width: 100%;
+    margin-top: 100px;
+}
+.prods:hover{
+    width: 98%;
+}
+@media only screen and (max-width: 1500px) {
+   .prods{
+    margin-top: 100px;
+}
+}
+.white_gray{
+	background-color: hidden;
+	padding-bottom: 300px
+}
+@media only screen and (max-width: 900px) {
+.white_gray{
+	background-color: white;
+	padding-bottom: 0px
+}
+}
+.botton{
+	margin-top: 40px;
+	font-weight: 600;
+}
+.stylus{
+	background-color: #f4f4f4; 
+	border-radius: 20px; 
+	height: 700px;
+	
+}
+.stylus:hover{
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1), 0 5px 18px 0 rgba(0, 0, 0, 0.10);
+	cursor: pointer;
+}
+@media only screen and (max-width: 1000px) {
+  .stylus{
+	margin-right: 5%; 
+	margin-left: 5%;
+	height: 560px;
+}
+}
+
+.styluser{
+	background-color: #f4f4f4; 
+	border-radius: 20px; 
+	height: 330px;
+	padding:10px;
+	
+}
+.styluser:hover{
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1), 0 5px 18px 0 rgba(0, 0, 0, 0.10);
+	cursor: pointer;
+}
+@media only screen and (max-width: 1000px) {
+  .styluser{
+	margin-right: 5%; 
+	margin-left: 5%;
+	height: 560px;
+}
+}
+.prodsl{
+    width: 95%;
+    margin-top: 25px
+
+}
+.prodsl:hover{
+
+    width: 93%;
+}
+@media only screen and (max-width: 1500px) {
+   .prodsl{
+    margin-top: 100px;
+}
+}
+.kontik{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+@media only screen and (max-width: 1000px) {
+.kontik{
+	margin-left: 0%;
+	margin-right: 0%;
+}
+}
+.boke{
+	margin-right: 15%;
+	margin-left: 15%;
+}
+@media only screen and (max-width: 1000px) {
+.boke{
+	margin-right: 0%;
+	margin-left: 0%;
+}
+}
+.bomba{
+	color: white;
+	font-size: 35px;
+	padding: 10px;
+
+}
+
+
+
+.stylussh{
+	background-color: #f4f4f4; 
+	border-radius: 20px; 
+	height: 400px;
+	
+}
+.stylussh:hover{
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1), 0 5px 18px 0 rgba(0, 0, 0, 0.10);
+	cursor: pointer;
+}
+@media only screen and (max-width: 1000px) {
+  .stylussh{
+	margin-right: 5%; 
+	margin-left: 5%;
+	height: 560px;
+}
+}
+
+.prodssh{
+    width: 100%;
+    margin-top: 30px
+}
+.prodssh:hover{
+    width: 98%;
+}
+@media only screen and (max-width: 1000px) {
+   .prodssh{
+    margin-top: 100px;
+}
+}
+.highlight{
+	background-color: rgba(255, 255, 0, .2);
+}
+.buttone {
+  background-color: #4CAF50; /* Green */
+  width: 100px
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.marginal{
+	margin-left: 15%; 
+	margin-right: 15%; 
+	margin-top: -2%;
+}
+@media only screen and (max-width: 1000px) {
+   .marginal{
+    margin-left: 4%; 
+	margin-right: 4%; 
+	margin-top: 10%;
+}
+}
+.marginale{
+	margin-left: 10%; 
+	margin-right: 10%;
+	margin-top: 5% 
+}
+@media only screen and (max-width: 1000px) {
+   .marginale{
+    margin-left: 2%; 
+	margin-right: 2%; 
+	margin-top: 10%;
+
+}
+}
+.pads{
+	padding-top: 0%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.bortik{
+	background-color: #272524; 
+	border-radius: 20px;
+}
+.bordi{
+	background-color: #272524; 
+	border-radius: 50px;
+}
+@media only screen and (max-width: 1000px) {
+   .bordi{
+    border-radius: 20px;
+    
+}
+}
+
+.bgg{
+	background-color: #f6f6f6;
+}
+
+.whi{
+	color: #63bc1f;
+	font-weight: 800;
+		font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.boredone{
+	font-size: 25px;
+	margin-left: 15%; 
+	margin-right: 15%; 
+	margin-top: 5%;
+	text-align: left;
+	line-height: 1.7;
+	font-family: 'Open Sans', sans-serif;
+}
+@media only screen and (max-width: 1000px) {
+   .boredone{
+    font-size: 17px;
+	margin-left: 3%; 
+	margin-right: 3%; 
+	margin-top: 10%;
+	text-align: left;
+	line-height: 1.6;
+}
+}
+
+.boredone-ul{
+	font-size: 20px;
+	margin-left: 16%; 
+	margin-top: 2%;
+	text-align: left;
+	line-height: 1.7;
+	font-family: 'Open Sans', sans-serif;
+	list-style: none; 
+}
+@media only screen and (max-width: 1000px) {
+   .boredone-ul{
+    font-size: 20px;
+	margin-left: 3%; 
+	margin-right: 3%; 
+	margin-top: 2%;
+	text-align: left;
+	line-height: 1.7;
+
+}
+}
+
+li::before {
+  content: "• ";
+  color: #7aa423; 
+  
+}
+
+.txth{
+	font-size: 50px;
+	color: #7aa423;
+    font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	font-weight: 600;
+}
+@media only screen and (max-width: 1000px) {
+   .txth{
+	font-size: 40px;
+	color: #7aa423;
+	text-align: left;
+}
+}
+
+
+.imgq{
+	margin-left: 15%; 
+	margin-right: 15%; 
+	margin-top: 3%;
+}
+@media only screen and (max-width: 1000px) {
+   .imgq{
+	margin-left: 3%; 
+	margin-right: 3%; 
+	margin-top: 3%;
+
+}
+}
+
+.imgst{
+	margin-left: 14%; 
+    margin-right: 30%
+}
+@media only screen and (max-width: 1000px) {
+   .imgst{
+	margin-left: 3%; 
+    margin-right: 3%
+}
+}
+
+.txtlo{
+	font-weight: 800;
+	font-size: 60px;
+	color: white;
+	margin-top: 0%;
+}
+@media only screen and (max-width: 1000px) {
+   .txtlo{
+	font-weight: 600;
+	font-size: 40px;
+	margin-top: 5%;
+}
+}
+
+
+.fglb{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.txtma{
+	font-size: 30px; 
+	color: black; 
+	line-height: 1.4; 
+	margin-top: 5%; 
+	margin-left: 3%; 
+	margin-right: 3%
+}
+@media only screen and (max-width: 1000px) {
+   .txtma{
+	font-size: 20px; 
+	color: black; 
+	line-height: 1.5; 
+	margin-top: 5%; 
+	margin-left: 3%; 
+	margin-right: 3%
+}
+}
+
+.butto{
+	margin-top: 2%; 
+	margin-left: 3%; 
+	margin-right: 3%;
+	width: 300px
+}
+@media only screen and (max-width: 1000px) {
+   .butto{
+	margin-top: 1%; 
+	margin-left: 1%; 
+	margin-right: 1%;
+	margin-bottom: 7%;
+	width: 300px;
+}
+}
+
+.buttoletti{
+	width: 50%
+}
+@media only screen and (max-width: 1000px) {
+   .buttoletti{
+	width: 100%
+}
+}
+
+
+.imgwid{
+	width: 60%;
+}
+@media only screen and (max-width: 1000px) {
+   .imgwid{
+	width: 50%;
+}
+}
+
+.goer{
+	margin-top: 5%;
+}
+@media only screen and (max-width: 1000px) {
+   .goer{
+	margin-top: 0%;
+}
+}
+
+.bigger{
+	padding-bottom: 60px
+}
+
+
+.marg{
+	margin-left: 15%; 
+	margin-right: 15%;
+	text-align: left;
+}
+@media only screen and (max-width: 1000px) {
+   .marg{
+	margin-left: 3%; 
+	margin-right: 3%;
+
+}
+}
+
+
+.boredone-le{
+
+	font-size: 15px;
+	margin-top: 2%;
+	text-align: left;
+	line-height: 1.7;
+	font-family: 'Open Sans', sans-serif;
+	list-style: none; 
+}
+
+
+
+.imgno{
+	width: 100%;
+}
+@media only screen and (max-width: 700px) {
+   .imgno{
+	width: 70%;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('http://yusufbek.webfactional.com/fonts/Gilroy/Gilroy-Bold.twoff2tf');
+}
+@font-face {
+    font-family: 'Gilroy-Regular';
+    src: url('http://yusufbek.webfactional.com/fonts/Gilroy/Gilroy-Regular.woff2');
+}
+
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url('http://yusufbek.webfactional.com/fonts/Gilroy/Gilroy-SemiBold.woff2');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
